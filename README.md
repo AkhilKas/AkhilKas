@@ -34,6 +34,7 @@
 <details>
   <summary>:zap:  GitHub Stats</summary>
   <br>
+  
   [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
