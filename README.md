@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything [here][issues]!
-- 📫 How to reach me: [mailto](mailto:akhilkas2001@gmail.com)
+- 📫 How to reach me: [mail me](mailto:akhilkas2001@gmail.com)
 - ⚡ Fun fact: I love playing the keyboard!
 
 ### Spotify Playing 🎧
@@ -35,8 +35,6 @@
 
 <br>
 <br>
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
