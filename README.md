@@ -8,10 +8,6 @@
 - 📫 How to reach me: [mail me](mailto:akhilkas2001@gmail.com)
 - ⚡ Fun fact: I love playing the keyboard!
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-Akhilkas.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/xm9kdp6aqysivea3trlkqwj3q?si=9tRiAfMrSL23D4lSDZCGcw)
-
 ### Connect with me:
 
 [<img align="left" alt="akhil_kas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
