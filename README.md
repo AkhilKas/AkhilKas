@@ -32,7 +32,7 @@
 <br>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> **:zap: GitHub Stats** </summary>
 
   [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
