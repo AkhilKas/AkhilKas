@@ -36,12 +36,8 @@
 
   [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
-</details>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas)](https://github.com/AkhilKas/github-readme-stats)
 
-<details>
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas)](https://github.com/AkhilKas/github-readme-stats)
-    
 </details>
 
 [issues]: https://github.com/AkhilKas/AkhilKas/issues
