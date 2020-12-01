@@ -1,7 +1,5 @@
 ### Hi there, I'm Akhilesh Kasturi 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/akhil_kas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakhil_kas&screen_name=akhil_kas)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,9 +8,9 @@
 - 📫 How to reach me: [mailto](mailto:akhilkas2001@gmail.com)
 - ⚡ Fun fact: I love playing the keyboard!
 
-<!--### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)-->
+[<img src="https://now-playing-Akhilkas.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/xm9kdp6aqysivea3trlkqwj3q?si=9tRiAfMrSL23D4lSDZCGcw)
 
 ### Connect with me:
 
