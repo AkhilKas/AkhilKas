@@ -1,9 +1,9 @@
-### Hi there, I'm Akhilesh Kasturi 👋
+### Hi there, I'm Akhilesh Kasturi 👨‍💻 👋 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning "Machine Learning, Android development"
+- 👯 I’m looking to collaborate on any open-source projects
+<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything [here][issues]!
 - 📫 How to reach me: [mail me](mailto:akhilkas2001@gmail.com)
 - ⚡ Fun fact: I love playing the keyboard!
