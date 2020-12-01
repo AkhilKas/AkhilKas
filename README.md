@@ -3,11 +3,10 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning "Machine Learning, Android development"
 - 👯 I’m looking to collaborate on any open-source projects
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything [here][issues]!
 - 📫 How to reach me: [mail me](mailto:akhilkas2001@gmail.com)
 - ⚡ Fun fact: I love playing the keyboard!
-
+<!--- 🤔 I’m looking for help with ...-->
 ### Connect with me:
 
 [<img align="left" alt="akhil_kas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,7 +32,7 @@
 <br>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  :zap: GitHub Stats
 
   [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
