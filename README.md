@@ -35,7 +35,7 @@
 
   <summary> 
 
-    :zap:  __GitHub Stats__
+    :zap:  GitHub Stats
 
   </summary>
 
