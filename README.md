@@ -39,8 +39,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@AkhilKas/7dfe1b2b-29d8-478d-b66b-c2efaebea738.png" /></a>
-  
 </details>
 
 [issues]: https://github.com/AkhilKas/AkhilKas/issues
