@@ -1,4 +1,4 @@
-### Hi there, I'm Akhilesh Kasturi 👨‍💻 👋 
+### Hi there, I'm Akhilesh Kasturi 👨‍💻 👋
 
 - 🔭 I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning "Machine Learning, Android development"
@@ -9,7 +9,7 @@
 <!--- 🤔 I’m looking for help with ...-->
 ### Connect with me:
 
-[<img align="left" alt="akhil_kas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="akhil_kas | Twitter" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akhil_kas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akhil_kas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -34,7 +34,7 @@
 <details>
   <summary>:zap:  <b>GitHub Stats</b></summary>
   <br>
-  
+
   [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
