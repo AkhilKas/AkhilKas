@@ -5,9 +5,9 @@
 - 📫 How to reach me: [e-mail](mailto:akhilkas2001@gmail.com)
 
 ### Connect with me:
-[<img align="left" alt="akhil_kas | Twitter" width="24px" src="https://skillicons.dev/icons?i=twitter" />][twitter] &nbsp;
-[<img alt="akhil_kas | LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin] &nbsp;
-[<img alt="akhil_kas | Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
+[<img align="left" alt="akhil_kas|Twitter" src="https://skillicons.dev/icons?i=twitter"/>][twitter] &nbsp;
+[<img alt="akhil_kas|LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin] &nbsp;
+[<img alt="akhil_kas|Instagram" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ### Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
+<img align="left" alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
 <img alt="Tensorflow" width="26px" src="https://skillicons.dev/icons?i=tensorflow"> &nbsp;
 <img alt="AWS" width="26px" src="https://skillicons.dev/icons?i=aws"/> &nbsp;
 <img alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" /> &nbsp;
