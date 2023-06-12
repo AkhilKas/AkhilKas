@@ -9,8 +9,6 @@
 [<img alt="akhil_kas|LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin] &nbsp;
 [<img alt="akhil_kas|Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
 
-<br>
-
 ### Languages:
 
 <img alt="Python" width="26px" src="https://skillicons.dev/icons?i=py"/> &nbsp;
@@ -19,8 +17,6 @@
 <img alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js"/> &nbsp;
 <img alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
 
-<br>
-
 ### Tools:
 
 <img alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
@@ -28,8 +24,6 @@
 <img alt="AWS" width="26px" src="https://skillicons.dev/icons?i=aws"/> &nbsp;
 <img alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" /> &nbsp;
 <img alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
-
-<br>
 
 <details>
   <summary><h3 style="display: inline;">⚡GitHub Stats</h3></summary>
