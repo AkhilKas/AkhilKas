@@ -1,38 +1,43 @@
-### Hi there, I'm Akhilesh Kasturi 👨‍💻 👋
+### Hi there, I'm Akhilesh 👨‍💻 👋
 
-- 🌱 I’m currently learning "Machine Learning, Deep learning, and Artificial Intellignece"
-- 👯 I’m looking to collaborate on any open-source projects
+- 🖥️ I’m currently working on projects in the field of Data Science 
 - 💬 Ask me about anything [here][issues]!
 - 📫 How to reach me: [e-mail](mailto:akhilkas2001@gmail.com)
-<!--- 🤔 I’m looking for help with ...-->
+
 ### Connect with me:
+[<img align="left" alt="akhil_kas | Twitter" width="24px" src="https://skillicons.dev/icons?i=twitter" />][twitter] &nbsp;
+[<img alt="akhil_kas | LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin] &nbsp;
+[<img alt="akhil_kas | Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
-[<img align="left" alt="akhil_kas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="akhil_kas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="akhil_kas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
+
+### Languages:
+
+<img alt="Python" width="26px" src="https://skillicons.dev/icons?i=py"/> &nbsp;
+<img alt="Java" width="26px" src="https://skillicons.dev/icons?i=java" /> &nbsp;
+<img alt="CPP" width="26px" src="https://skillicons.dev/icons?i=cpp"/> &nbsp;
+<img alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js"/> &nbsp;
+<img alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
 
 <br>
 
-### Languages and Tools:
+### Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"/>
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>
-<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"/>
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
+<img alt="Tensorflow" width="26px" src="https://skillicons.dev/icons?i=tensorflow"> &nbsp;
+<img alt="AWS" width="26px" src="https://skillicons.dev/icons?i=aws"/> &nbsp;
+<img alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" /> &nbsp;
+<img alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
 
-<br>
 <br>
 
 <details>
-  <summary>:zap:  <b>GitHub Stats</b></summary>
+  <summary><h3 style="display: inline;">⚡GitHub Stats</h3></summary>
   <br>
 
   [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
 </details>
 
@@ -40,3 +45,6 @@
 [twitter]: https://twitter.com/akhil_kas
 [instagram]: https://www.instagram.com/akhil_kas/
 [linkedin]: https://www.linkedin.com/in/akhilesh-kasturi/
+
+<!-- - 👻 I’m looking to collaborate on any open-source projects -->
+<!--- 🤔 I’m looking for help with ...-->
