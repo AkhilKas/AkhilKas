@@ -1,15 +1,15 @@
 ### Hi there, I'm Akhilesh 👨‍💻 👋
-
-- 🖥️ I’m currently working on projects in the field of Data Science 
+#### I'm an AI enthusiast. I strive for excellence and continuously seek to expand my knowledge and skills. My goal is to make a positive impact on society through my work in AI.
+- 🖥️ I’m currently working on projects in voice analytics. 
 - 💬 Ask me about anything [here][issues]!
-- 📫 How to reach me: [e-mail](mailto:akhilkas2001@gmail.com)
+- 📫 Reach me [here](mailto:akhilkas2001@gmail.com)
 
-### Connect with me:
+#### Connect with me:
 [<img alt="akhil_kas|Twitter" width="24px" src="https://skillicons.dev/icons?i=twitter"/>][twitter] &nbsp;
 [<img alt="akhil_kas|LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin] &nbsp;
 [<img alt="akhil_kas|Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
 
-### Languages:
+#### Languages:
 
 <img alt="Python" width="26px" src="https://skillicons.dev/icons?i=py"/> &nbsp;
 <img alt="Java" width="26px" src="https://skillicons.dev/icons?i=java" /> &nbsp;
@@ -17,7 +17,7 @@
 <img alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js"/> &nbsp;
 <img alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
 
-### Tools:
+#### Tools:
 
 <img alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
 <img alt="Tensorflow" width="26px" src="https://skillicons.dev/icons?i=tensorflow"> &nbsp;
@@ -26,10 +26,8 @@
 <img alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
 
 <details>
-  <summary><h3 style="display: inline;">⚡GitHub Stats</h3></summary>
+  <summary><h3 style="display: inline;">⚡Programming Stats⚡</h3></summary>
   <br>
-
-  [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilKas&theme=radical)](https://github.com/AkhilKas/github-readme-stats)
 
@@ -42,3 +40,6 @@
 
 <!-- - 👻 I’m looking to collaborate on any open-source projects -->
 <!--- 🤔 I’m looking for help with ...-->
+
+
+  <!-- [![AkhilKas's github stats](https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&theme=radical)](https://github.com/AkhilKas/github-readme-stats) -->
