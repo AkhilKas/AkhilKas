@@ -38,7 +38,7 @@
 <br>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhilKas&title=Repositories, Commit, Stars" alt="akhilkas" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhilKas&title=Repositories,Commits,Stars" alt="akhilkas" />
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true" />
