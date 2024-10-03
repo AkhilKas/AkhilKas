@@ -34,17 +34,6 @@
 
 <br> <br> <br> <br> <br> <br> <br>
 
-<summary><h3 style="display: inline;">⚡Github Stats⚡</h3></summary>
-<br>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhilKas&title=Repositories,Commits,Stars" alt="akhilkas" />
-
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true" />
-</p>
-
-
 [issues]: https://github.com/AkhilKas/AkhilKas/issues
 [twitter]: https://twitter.com/akhil_kas
 [instagram]: https://www.instagram.com/akhil_kas/
