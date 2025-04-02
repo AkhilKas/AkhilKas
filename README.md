@@ -6,7 +6,6 @@
 - 👻 I’m looking to collaborate on any open-source projects
 
 ### Connect with me:
-[<img alt="akhil_kas|Twitter" width="24px" src="https://skillicons.dev/icons?i=twitter"/>][twitter] &nbsp;
 [<img alt="akhil_kas|LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin] &nbsp;
 [<img alt="akhil_kas|Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
 
