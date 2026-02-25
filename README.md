@@ -1,8 +1,8 @@
-## Hi there, I'm Akhilesh 👨‍💻 👋
+## Hi there, I'm Akhil 👨‍💻 👋
 
-### MS in AI @ Northeastern University | ML Engineer | Healthcare AI Researcher
+### AI @ Northeastern | ML Engineer 
 
-I build production ML systems that bridge research and real-world impact — from voice classification serving millions of users to uncertainty-aware medical imaging models. I'm passionate about deploying AI that actually works in the wild, especially in healthcare.
+I build production ML systems that bridge research and real-world impact; from voice classification serving millions of users to uncertainty-aware medical imaging models. I'm passionate about deploying AI that actually works in the wild, especially in healthcare.
 
 - 🎓 Graduating **December 2026** from Northeastern University (MS in Artificial Intelligence)
 - 🏥 Currently researching **speech-based depression detection** using the DAIC-WOZ dataset
@@ -44,20 +44,3 @@ I build production ML systems that bridge research and real-world impact — fro
 <img alt="Git" width="30px" src="https://skillicons.dev/icons?i=git"/> &nbsp;
 <img alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
 <img alt="VS Code" width="30px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
-
-<!-- <details>
-<summary><h3 style="display: inline;">⚡ Programming Stats ⚡</h3></summary>
-<br>
-<!-- Option A: Deploy your own github-readme-stats instance and uncomment these -->
-<!-- <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs?username=AkhilKas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akhilkas" /> -->
-<!-- <img src="https://YOUR-INSTANCE.vercel.app/api?username=AkhilKas&show_icons=true&locale=en&theme=tokyonight" alt="akhilkas" /> -->
-
-<!-- Option B: GitHub Streak Stats (uses a different, active service) -->
-<!-- <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilKas&theme=tokyonight" alt="akhilkas" />
-</p>
-</details> --> -->
-
-[issues]: https://github.com/AkhilKas/AkhilKas/issues
-[linkedin]: https://www.linkedin.com/in/akhilesh-kasturi/
-[instagram]: https://www.instagram.com/akhil_kas/
