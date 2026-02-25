@@ -48,11 +48,13 @@ I build production ML systems that bridge research and real-world impact — fro
 <details>
 <summary><h3 style="display: inline;">⚡ Programming Stats ⚡</h3></summary>
 <br>
+<!-- Option A: Deploy your own github-readme-stats instance and uncomment these -->
+<!-- <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs?username=AkhilKas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akhilkas" /> -->
+<!-- <img src="https://YOUR-INSTANCE.vercel.app/api?username=AkhilKas&show_icons=true&locale=en&theme=tokyonight" alt="akhilkas" /> -->
+
+<!-- Option B: GitHub Streak Stats (uses a different, active service) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilKas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akhilkas" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&locale=en&theme=tokyonight" alt="akhilkas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilKas&theme=tokyonight" alt="akhilkas" />
 </p>
 </details>
 
