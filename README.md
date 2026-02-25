@@ -32,20 +32,20 @@ I build production ML systems that bridge research and real-world impact — fro
 
 ### Languages and Tools:
 
-<img alt="Python" width="26px" src="https://skillicons.dev/icons?i=py"/> &nbsp;
-<img alt="PyTorch" width="26px" src="https://skillicons.dev/icons?i=pytorch"/> &nbsp;
-<img alt="TensorFlow" width="26px" src="https://skillicons.dev/icons?i=tensorflow"/> &nbsp;
-<img alt="Java" width="26px" src="https://skillicons.dev/icons?i=java"/> &nbsp;
-<img alt="CPP" width="26px" src="https://skillicons.dev/icons?i=cpp"/> &nbsp;
-<img alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js"/> &nbsp;
-<img alt="Docker" width="26px" src="https://skillicons.dev/icons?i=docker"/> &nbsp;
-<img alt="AWS" width="26px" src="https://skillicons.dev/icons?i=aws"/> &nbsp;
-<img alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
-<img alt="Git" width="26px" src="https://skillicons.dev/icons?i=git"/> &nbsp;
-<img alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
-<img alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
+<img alt="Python" width="30px" src="https://skillicons.dev/icons?i=py"/> &nbsp;
+<img alt="PyTorch" width="30px" src="https://skillicons.dev/icons?i=pytorch"/> &nbsp;
+<img alt="TensorFlow" width="30px" src="https://skillicons.dev/icons?i=tensorflow"/> &nbsp;
+<img alt="Java" width="30px" src="https://skillicons.dev/icons?i=java"/> &nbsp;
+<img alt="CPP" width="30px" src="https://skillicons.dev/icons?i=cpp"/> &nbsp;
+<img alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js"/> &nbsp;
+<img alt="Docker" width="30px" src="https://skillicons.dev/icons?i=docker"/> &nbsp;
+<img alt="AWS" width="30px" src="https://skillicons.dev/icons?i=aws"/> &nbsp;
+<img alt="MySQL" width="30px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
+<img alt="Git" width="30px" src="https://skillicons.dev/icons?i=git"/> &nbsp;
+<img alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
+<img alt="VS Code" width="30px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
 
-<details>
+<!-- <details>
 <summary><h3 style="display: inline;">⚡ Programming Stats ⚡</h3></summary>
 <br>
 <!-- Option A: Deploy your own github-readme-stats instance and uncomment these -->
@@ -53,10 +53,10 @@ I build production ML systems that bridge research and real-world impact — fro
 <!-- <img src="https://YOUR-INSTANCE.vercel.app/api?username=AkhilKas&show_icons=true&locale=en&theme=tokyonight" alt="akhilkas" /> -->
 
 <!-- Option B: GitHub Streak Stats (uses a different, active service) -->
-<p>
+<!-- <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilKas&theme=tokyonight" alt="akhilkas" />
 </p>
-</details>
+</details> --> -->
 
 [issues]: https://github.com/AkhilKas/AkhilKas/issues
 [linkedin]: https://www.linkedin.com/in/akhilesh-kasturi/
