@@ -1,45 +1,61 @@
-## Hi there, I'm Akhilesh 👨‍💻 👋
-### I'm an AI enthusiast. I strive for excellence and continuously seek to expand my knowledge and skills. My goal is to make a positive impact on society through my work in AI.
-- 🖥️ I’m currently working on projects in voice analytics. 
+## Hi there, I'm Akhil 👨‍💻 👋
+
+### MS in AI @ Northeastern University | ML Engineer | Healthcare AI Researcher
+
+I build production ML systems that bridge research and real-world impact — from voice classification serving millions of users to uncertainty-aware medical imaging models. I'm passionate about deploying AI that actually works in the wild, especially in healthcare.
+
+- 🎓 Graduating **December 2026** from Northeastern University (MS in Artificial Intelligence)
+- 🔬 Published researcher in **blockchain consensus mechanisms for healthcare data management**
+- 🖥️ Building **RewardSense** — a credit card recommendation system with full MLOps pipeline
+- 💼 Graduate TA for **CS5100 Foundations of AI**, previous TA for **CS1800 Discrete Structures**
 - 💬 Ask me about anything [here][issues]!
-- 📫 Reach me [here](mailto:akhilkas2001@gmail.com)
-- 👻 I’m looking to collaborate on any open-source projects
+- 📫 Reach me at [akhilkas2001@gmail.com](mailto:akhilkas2001@gmail.com)
+- 👻 Looking to collaborate on open-source ML/AI projects
+
+### 🚀 Highlighted Experience
+
+**Reliance Jio** — Built voice classification systems across multiple Indian regional languages, generating **$150K+ revenue** in production.
+
+**CognitiveHealth Technologies** — Developed healthcare AI solutions including fraud detection and multimodal medical document analysis.
+
+**Deep Vision Analytics** — Worked on autonomous systems development with production-grade ML pipelines.
+
+### 🔨 Notable Projects
+
+| Project | Description |
+|---------|-------------|
+| **RewardSense** | Credit card recommendation system with synthetic data generation, anomaly detection, bias mitigation & CI/CD |
+| **Patient Communication Assistant** | RAG application transforming complex medical documents into patient-friendly explanations |
+| **XAI Healthcare Dashboard** | Orthopedic motion assessment using IMU sensors with explainable AI principles |
+| **CheXpert Medical Imaging** | Uncertainty-aware chest X-ray classification achieving 0.87 AUC on weak labels |
 
 ### Connect with me:
+
 [<img alt="akhil_kas|LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin] &nbsp;
 [<img alt="akhil_kas|Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
 
 ### Languages and Tools:
 
 <img alt="Python" width="26px" src="https://skillicons.dev/icons?i=py"/> &nbsp;
-<img alt="Java" width="26px" src="https://skillicons.dev/icons?i=java" /> &nbsp;
+<img alt="PyTorch" width="26px" src="https://skillicons.dev/icons?i=pytorch"/> &nbsp;
+<img alt="TensorFlow" width="26px" src="https://skillicons.dev/icons?i=tensorflow"/> &nbsp;
+<img alt="Java" width="26px" src="https://skillicons.dev/icons?i=java"/> &nbsp;
 <img alt="CPP" width="26px" src="https://skillicons.dev/icons?i=cpp"/> &nbsp;
 <img alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js"/> &nbsp;
-<img alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
-<img alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
-<img alt="Tensorflow" width="26px" src="https://skillicons.dev/icons?i=tensorflow"> &nbsp;
+<img alt="Docker" width="26px" src="https://skillicons.dev/icons?i=docker"/> &nbsp;
 <img alt="AWS" width="26px" src="https://skillicons.dev/icons?i=aws"/> &nbsp;
-<img alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" /> &nbsp;
+<img alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
+<img alt="Git" width="26px" src="https://skillicons.dev/icons?i=git"/> &nbsp;
 <img alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
+<img alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
 
-<!-- <p><img src="https://komarev.com/ghpvc/?username=AkhilKas&label=Profile%20views&color=0e75b6&style=flat" alt="akhilkas" /></p> -->
-
-<summary><h3 style="display: inline;">⚡Programming Stats⚡</h3></summary>
+<summary><h3 style="display: inline;">⚡ Programming Stats ⚡</h3></summary>
 <br>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilKas&show_icons=true&locale=en&layout=compact" alt="akhilkas" />
 </p>
-
-<br> <br> <br> <br> <br> <br> <br>
+<br><br><br><br><br><br><br>
 
 [issues]: https://github.com/AkhilKas/AkhilKas/issues
-[twitter]: https://twitter.com/akhil_kas
-[instagram]: https://www.instagram.com/akhil_kas/
 [linkedin]: https://www.linkedin.com/in/akhilesh-kasturi/
-
-
-<!--- 🤔 I’m looking for help with ...-->
-
-
-
+[instagram]: https://www.instagram.com/akhil_kas/
