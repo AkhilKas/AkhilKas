@@ -1,14 +1,14 @@
-## Hi there, I'm Akhil 👨‍💻 👋
+## Hi there, I'm Akhilesh 👨‍💻 👋
 
 ### MS in AI @ Northeastern University | ML Engineer | Healthcare AI Researcher
 
 I build production ML systems that bridge research and real-world impact — from voice classification serving millions of users to uncertainty-aware medical imaging models. I'm passionate about deploying AI that actually works in the wild, especially in healthcare.
 
 - 🎓 Graduating **December 2026** from Northeastern University (MS in Artificial Intelligence)
+- 🏥 Currently researching **speech-based depression detection** using the DAIC-WOZ dataset
 - 🔬 Published researcher in **blockchain consensus mechanisms for healthcare data management**
 - 🖥️ Building **RewardSense** — a credit card recommendation system with full MLOps pipeline
-- 💼 Graduate TA for **CS5100 Foundations of AI**, previous TA for **CS1800 Discrete Structures**
-- 💬 Ask me about anything [here][issues]!
+- 💼 Graduate TA for **CS5100: Foundations of AI**, previous TA for **CS1800: Discrete Structures**
 - 📫 Reach me at [akhilkas2001@gmail.com](mailto:akhilkas2001@gmail.com)
 - 👻 Looking to collaborate on open-source ML/AI projects
 
@@ -28,11 +28,7 @@ I build production ML systems that bridge research and real-world impact — fro
 | **Patient Communication Assistant** | RAG application transforming complex medical documents into patient-friendly explanations |
 | **XAI Healthcare Dashboard** | Orthopedic motion assessment using IMU sensors with explainable AI principles |
 | **CheXpert Medical Imaging** | Uncertainty-aware chest X-ray classification achieving 0.87 AUC on weak labels |
-
-### Connect with me:
-
-[<img alt="akhil_kas|LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin"/>][linkedin] &nbsp;
-[<img alt="akhil_kas|Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
+| **Speech Depression Detection** | Multimodal depression detection research using the DAIC-WOZ dataset |
 
 ### Languages and Tools:
 
@@ -49,12 +45,16 @@ I build production ML systems that bridge research and real-world impact — fro
 <img alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/> &nbsp;
 <img alt="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/> &nbsp;
 
+<details>
 <summary><h3 style="display: inline;">⚡ Programming Stats ⚡</h3></summary>
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilKas&show_icons=true&locale=en&layout=compact" alt="akhilkas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilKas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akhilkas" />
 </p>
-<br><br><br><br><br><br><br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhilKas&show_icons=true&locale=en&theme=tokyonight" alt="akhilkas" />
+</p>
+</details>
 
 [issues]: https://github.com/AkhilKas/AkhilKas/issues
 [linkedin]: https://www.linkedin.com/in/akhilesh-kasturi/
